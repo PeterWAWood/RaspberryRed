@@ -2,3 +2,5 @@ RaspberryRed
 ============
 
 Red on Raspberrry PI
+
+## THIS REPO WILL ONLY BE POPULATED ONCE RED HAS FULL GUI SUPPORT ON RASPBERRY PI
